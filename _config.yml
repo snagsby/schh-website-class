@@ -1,11 +1,11 @@
-title: Website Title
+title: My new website
 
 description: >
-  Website Description
+   My new website for the SCHHCC class.
 
 author:
-  name: Name
-  email: your-email@domain.com
+  name: Ron
+  email: ron@snyderjr.com
 
 nav_pages:
   - about.md
