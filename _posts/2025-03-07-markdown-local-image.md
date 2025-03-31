@@ -17,8 +17,13 @@ The **common sunflower** (*Helianthus annuus*) is a species of large annual forb
 
 ![]({{ site.baseurl }}/static/images/sunflower.jpg)
 {: .small}
+Common Sunflower
+{: .center}
 
 ![](../../../static/images/sunflower.jpg)
 {: .small}
+
+Common Sunflower
+{: .center}
 
 More information can be found on [Wikipedia](https://en.wikipedia.org/wiki/Common_sunflower)
